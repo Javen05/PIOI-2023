@@ -1,5 +1,5 @@
 ## PIOI-2023
-> Qns I attempted for https://pioi-contest.np-overflow.club
+> Qns I attempted for https://pioi-contest.np-overflow.club practical session
 
 ### Summary:
 - cats_and_hams.py: Misintepreted Qn, Solution doesn't solve the given problem
