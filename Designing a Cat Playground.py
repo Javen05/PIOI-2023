@@ -81,16 +81,17 @@ Copy
 7 3 1 4 6 1 ==3 7 4 6==
 """
 
-# Best Solution Submitted
-# ValueError: invalid literal for int() with base 10
-# couldn't figure why this error only occur when I concat the binary string.
+# Solution Submitted
+from sys import stdin
 
-rotationFactor = int(input())
+minK, maxK = stdin.readline().rstrip().split()
+cats = list(input().split())
+
 sum = 0
-        
-for i in range(4):
-    s = input()
-    p = s[rotationFactor::] + s[0:rotationFactor]
-    sum += int("0b" + p)
-    # Solution = int("0b" + p, 2)
+
+for i in range(len(cats)):
+    
+    if int(minK) <= int(cats[i]) <= int(maxK):
+        sum += 1
+
 print(sum)
