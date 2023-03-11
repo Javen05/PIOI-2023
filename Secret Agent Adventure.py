@@ -103,34 +103,3 @@ for i in range(len(s_arr)):
 
 if c == False:
     print(-1)
-
-# Improvement after Competition:
-from sys import stdin
-
-n = int(input())
-arr = list(stdin.readline().split())
-key = input()
-
-s_arr = []
-
-while len(arr) > 0:
-    start = arr[0]
-    
-    for i in range(1, n):
-            
-        if int(start) > int(arr[i]):
-            start =  arr[i]
-        
-    s_arr.append(start)
-    arr.remove(start)
-
-c = False
-        
-for i in range(n):
-    if key == s_arr[i]:
-        print(i)
-        c = True
-        break
-
-if c == False:
-    print(-1)
