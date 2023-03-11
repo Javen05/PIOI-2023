@@ -71,6 +71,7 @@ Resources: ---, 12.77 MB
 Final score: 50/100 (50.0/100 points)
 """
 
+# Submission
 from sys import stdin
 
 n = int(input())
