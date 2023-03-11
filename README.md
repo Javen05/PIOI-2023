@@ -11,7 +11,7 @@
 
 ### Qns Attempted (Competition):
 3 / 4
-- Designing a Cat Playground: Misintepreted Qn, Solution doesn't solve the given problem; Found Qn ambiguous
+- Designing a Cat Playground: Misintepreted Qn, Solution doesn't solve the given problem; Found Qn ambiguous, couldn't understand how subarrays are formed from provided details
 - The Binary World of Cats: Python3 knowledge/skill issue: first time doing binary
 - Secret Agent Adventure: Code too slow + Forgot how to do binary search to cut down search algorithm timing
 
