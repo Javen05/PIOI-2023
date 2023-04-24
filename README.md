@@ -5,15 +5,15 @@
 
 ### Qns Attempted (Practical):
 3 / 5
-- cats_and_hams.py: Misintepreted Qn, Solution doesn't solve the given problem
+- cats_and_hams.py: Misintepreted Qn; Solution doesn't solve the given problem
 - sleep_walking.py: Accepted
-- vaccine_storage.py: Time Limit Exceeded + Wrong Outputs (May be Websites issue)
+- vaccine_storage.py: Time Limit Exceeded + Wrong Outputs
 
 ### Qns Attempted (Competition):
 3 / 4
-- Designing a Cat Playground: Misintepreted Qn, Solution doesn't solve the given problem; Found Qn ambiguous, couldn't understand how subarrays are formed from provided details
-- The Binary World of Cats: Python3 knowledge/skill issue: first time doing binary
+- Designing a Cat Playground: Misintepreted Qn, Solution doesn't solve the given problem; Couldn't understand how subarrays are formed from provided details
+- The Binary World of Cats: first time doing binary
 - Secret Agent Adventure: Code too slow + Forgot how to do binary search to cut down search algorithm timing
 
 -------------- Did not Attempt -------------------------------------------
-- Dwarf Mining Operations: Ran out of time: Took too long to understand Qn
+- Dwarf Mining Operations: Ran out of time
