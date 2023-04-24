@@ -1,7 +1,6 @@
-# PIOI-2023
-### Obtained Bronze Medal
+## Polytechnic-ITE Olympiad for Informatics 2023
 > Qns I attempted for https://pioi-contest.np-overflow.club practical and actual session
-
+### Obtained Bronze Medal
 
 ### Qns Attempted (Practical):
 3 / 5
